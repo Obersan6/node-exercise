@@ -1,0 +1,22 @@
+{
+  "name": "node-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obersan6/node-exercise.git"
+  },
+  "author": "Olga Bernal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obersan6/node-exercise/issues"
+  },
+  "homepage": "https://github.com/Obersan6/node-exercise#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
